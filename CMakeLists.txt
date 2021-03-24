@@ -34,4 +34,3 @@ set(SRCS
 )
 
 add_executable(aidl-cpp ${SRCS})
-target_link_libraries(aidl-cpp binder)
